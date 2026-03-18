@@ -4,3 +4,4 @@ langchain-google-genai
 faiss-cpu
 tiktoken
 python-dotenv
+langchain_text_splitters
