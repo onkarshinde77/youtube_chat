@@ -1,0 +1,1 @@
+[2026-03-18 19:47:04,222] 1025 httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:batchEmbedContents "HTTP/1.1 404 Not Found"
