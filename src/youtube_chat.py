@@ -18,7 +18,6 @@ load_dotenv()
 
 from src.exception.exception import CustomException
 from src.logger.logger import logging
-from src.logger.logger import logging
 
 
 class VideoTransScript:
